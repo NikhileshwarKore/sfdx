@@ -7,6 +7,4 @@ author : nik
 
 now its morning
 
-
-
-ok
+deleted
